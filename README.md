@@ -1,6 +1,6 @@
 # PoE Hub Data Prices
 
-These are Path of Exile pricing data crunched from our Discord Server and generate outputs to TFT pricing channels. Most of the data are only available exclusively from TFT such as
+These are Path of Exile pricing data crunched from our Discord Server and generate outputs to PoE Hub pricing channels. Most of the data are only available exclusively from TFT such as
 - Services (betrayal benchcrafts, temple benchcrafts)
 - Compasses (Sextant mod)
 - Heist Contracts
@@ -30,7 +30,7 @@ We do recommend you to follow our [#tool-dev-updates](https://discord.com/channe
 
 ## Suggestions / Feedback
 
-We welcome any feedback, please post your feedback in the [#tool-dev-chat](https://discord.com/channels/1041808062442381393/1041808076803670116) on the TFT Discord.
+We welcome any feedback, please post your feedback in the [#tool-dev-chat](https://discord.com/channels/1041808062442381393/1041808076803670116) on the Poe Hub Discord.
 
 
 ## Join Our Discord
